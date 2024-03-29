@@ -10,3 +10,5 @@ Bullet point
 Tags button
 Text with comma
 ETC
+
+Don't put too much design just a white and black like in wikipedia is enough
